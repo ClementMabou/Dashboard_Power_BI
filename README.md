@@ -5,7 +5,7 @@ Dieses Projekt wurde im Rahmen der online Weiterbildung „Power BI Fundamentals
 
 ## Daten 
 Die verwendeten Daten stammen aus dem oben genannten Kurs. 
-![alt text](Data Set)
+![alt text](Data Set.png)
 
 ## Ergebnis
 ![alt text](Dashboard.png)
