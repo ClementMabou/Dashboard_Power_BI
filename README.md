@@ -5,6 +5,7 @@ Dieses Projekt wurde im Rahmen der online Weiterbildung „Power BI Fundamentals
 
 ## Daten 
 Die Daten wurden dem Material entnommen, das im oben genannten Kurs bereitgestellt wurde, und befindet sich im Ordner „Daten“.
+
 ![alt text](DataSet.png)
 ## Ergebnis
 Dieses Ergebnis basiert auf dem Import der Daten, deren Bereinigung in Power Query sowie der anschließenden Modellierung und Visualisierung in Power BI.
