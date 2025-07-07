@@ -1,7 +1,7 @@
 # Dashboard
 Erstellung eines interaktiven Dashboards zur Visualisierung der Unternehmensleistung mithilfe von Power BI
 ## Übersicht
-Dieses Projekt wurde im Rahmen der online Weiterbildung „Power BI Fundamentals“ des Corporate Finance Institute auf der Plattform Coursera durchgeführt. Ziel des Projekts war die Erstellung eines Dashboards zur Verfolgung der  Verkaufsleistung eines Unternehmens. Als Datengrundlage dienten die Verkaufsdaten des fiktiven Unternehmens GL Retail Corporation  aus den Jahren 2020, 2021 und 2022. Die Head Rest Bed Company vertreibt Bettzubehör an acht Standorten in den USA und bietet ihre Produkte in vier Kategorien (Bettrahmen, Matratzen, Bettwäsche und Kopfkissen ) unter vier Marken an.
+Dieses Projekt wurde im Rahmen der online Weiterbildung „Power BI Fundamentals“ des Corporate Finance Institute auf der Plattform Coursera durchgeführt. Ziel des Projekts war die Erstellung eines Dashboards zur Verfolgung der  Verkaufsleistung eines Unternehmens. Als Datengrundlage dienten die Verkaufsdaten des fiktiven Unternehmens GL Retail Corporation  aus den Jahren 2020, 2021 und 2022. 
 
 ## Daten 
 Die verwendeten Daten stammen aus dem oben genannten Kurs. 
