@@ -8,7 +8,8 @@ Die verwendeten Daten stammen aus dem oben genannten Kurs.
 ![alt text](DataSet.png)
 ## Ergebnis
 ![alt text](Dashboard.png)
+TS= Total Sales ; TS vs TSLY = Total Sales vs Total Sales Last Year; TS vs TTS = Tota Sales vs Total Target Sales
 
 ## Fazit
-Mit diesem Dashboard ist es möglich, die Verkaufsleistung pro Standort und pro Zeitraum zu analysieren.
-Unter „Leistung“ sind Kennzahlen wie die der Umsatz, der prozentuale Anteil des Umsatzes im ausgewählten Zeitraum im Vergleich zum entsprechenden Zeitraum des Vorjahres sowie die Marge in Prozent zu verstehen. Diese Kennzahlen können nach verschiedenen Dimensionen gefiltert werden, darunter: Zeitraum (Jahr, Quartal, Monat, Woche, Tag), Standort, Produktkategorie (falls erforderlich) und  Produktmarke (falls erforderlich). Mit Ausnahme des Zeitraums lassen sich diese Filter auch auf zwei Zeitreihendiagramme anwenden : die Entwicklung von Umsatz und Marge über die Zeit. 
+Das Power-BI-Dashboard „Retail Sales“ ermöglicht eine übersichtliche Umsatzanalyse. Es zeigt zentrale Kennzahlen wie den aktuellen, den Vorjahres- und den Zielumsatz, visualisiert Trends im Zeitverlauf und stellt Umsätze geografisch dar. Die Umsätze werden zudem standortbezogen ausgewertet und mit den Vorjahres- sowie den Zielwerten verglichen. Eine bedingte Formatierung hebt Veränderungen von mehr als fünf Prozent – sowohl positiv als auch negativ – visuell hervor.
+Dank flexibler Filter (Jahr, Quartal, Monat) lassen sich gezielte Analysen für verschiedene Zeiträume durchführen. Das Dashboard unterstützt datenbasierte Entscheidungen und hilft dabei, Erfolgs- und Problemfelder frühzeitig zu erkennen.
