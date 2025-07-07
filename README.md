@@ -9,6 +9,7 @@ Die Daten wurden dem Material entnommen, das im oben genannten Kurs bereitgestel
 ![alt text](DataSet.png)
 ## Ergebnis
 Dieses Ergebnis basiert auf dem Import der Daten, deren Bereinigung in Power Query sowie der anschließenden Modellierung und Visualisierung in Power BI.
+
 ![alt text](Dashboard.png)
 TS= Total Sales ; TS vs TSLY = Total Sales vs Total Sales Last Year; TS vs TTS = Tota Sales vs Total Target Sales
 
