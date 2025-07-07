@@ -5,10 +5,10 @@ Dieses Projekt wurde im Rahmen der online Weiterbildung „Power BI Fundamentals
 
 ## Daten 
 Die verwendeten Daten stammen aus dem oben genannten Kurs. 
-![alt text](image-1.png)
+![alt text](Data Set)
 
 ## Ergebnis
-![alt text](image.png)
+![alt text](Dashboard.png)
 
 ## Fazit
 Mit diesem Dashboard ist es möglich, die Verkaufsleistung pro Standort und pro Zeitraum zu analysieren.
