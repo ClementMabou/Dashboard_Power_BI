@@ -4,7 +4,7 @@ Erstellung eines interaktiven Dashboards zur Visualisierung der Unternehmensleis
 Dieses Projekt wurde im Rahmen der online Weiterbildung „Power BI Fundamentals“ des Corporate Finance Institute auf der Plattform Coursera durchgeführt. Ziel des Projekts war die Erstellung eines Dashboards zur Verfolgung der  Verkaufsleistung eines Unternehmens. Als Datengrundlage dienten die Verkaufsdaten des fiktiven Unternehmens GL Retail Corporation  aus den Jahren 2020, 2021 und 2022. 
 
 ## Daten 
-Die Daten wurden dem Material entnommen, das im oben genannten Kurs bereitgestellt wurde, und befindet sich im Ordner „Daten“.
+Die Daten stammen aus dem im oben genannten Kurs bereitgestellten Material und befinden sich im Ordner ‚Daten‘. Die sogenannten Dimensionstabellen liefern zusätzliche Informationen zu den Attributen der Faktentabellen ‚Retail Sales Fact Table‘ und ‚Retail Cost Fact Table‘.
 
 ![alt text](DataSet.png)
 ## Ergebnis
